@@ -1,0 +1,3 @@
+[submodule "GPT_SoVITS/pretrained_models/GPT-SoVITS"]
+	path = GPT_SoVITS/pretrained_models/GPT-SoVITS
+	url = https://huggingface.co/lj1995/GPT-SoVITS/tree/main
